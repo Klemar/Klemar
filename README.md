@@ -5,3 +5,5 @@
 ## I am learning:books::
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" hight="60" width="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" hight="60" width="60"/>
 
+## My social:
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
