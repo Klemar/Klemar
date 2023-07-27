@@ -1,6 +1,6 @@
 ### Welcome to my GitHub👋<br />
 ## My stats :chart_with_upwards_trend::
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Klemar Status](https://github-readme-stats.vercel.app/api?username=Klemar&show_icons=true)
 
 ## My skills :computer::
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" hight="60" width="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" hight="60" width="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" hight="60" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" hight="60" width="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" hight="60" width="60"/>
